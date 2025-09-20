@@ -15,10 +15,10 @@ A compact LCD Dashboard for controlling your projects over UART
 
 ## PCB
 
-<img src=assets/pcb_2d.png alt="PCB layout" width="450"/>
+<img src=images/pcb_2d.png alt="PCB layout" width="450"/>
 
 ## 3D of the PCB
 
-<img src=assets/pcb_3d_front.png alt="Opened case" width="450"/>
+<img src=images/pcb_3d_front.png alt="Opened case" width="450"/>
 
-<img src=assets/pcb_3d_back.png alt="Opened case" width="450"/>
+<img src=images/pcb_3d_back.png alt="Opened case" width="450"/>
